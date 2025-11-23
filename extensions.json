@@ -161,5 +161,19 @@
     "updateDate": "2025-10-26",
     "isRepost": false,
     "originalAuthor": ""
+  },
+  {
+    "name": "密码锁扩展",
+    "downloadUrl": "https://github.com/cy-studio-001/CY-ScrExt-Hub/raw/refs/heads/main/extend/%E5%AF%86%E7%A0%81%E9%94%81%E6%89%A9%E5%B1%95.js",
+    "coverUrl": "https://img.cdn1.vip/i/6922627a296d2_1763861114.webp",
+    "description": "即使是黑客，也难以盗取你的作品",
+    "category": [
+      "实用",
+      "设计"
+    ],
+    "author": "外星人朱元翔",
+    "updateDate": "2025-11-23",
+    "isRepost": true,
+    "originalAuthor": "外星人朱元翔,10000why"
   }
 ]
