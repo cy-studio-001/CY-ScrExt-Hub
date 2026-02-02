@@ -232,16 +232,15 @@
     "originalAuthor": ""
   },
   {
-    "name": "更好的进制转换",
+    "id": "1770029030194",
+    "name": "更好的进制转换55",
+    "author": "张某人",
     "downloadUrl": "https://gh-proxy.org/https://raw.githubusercontent.com/cy-studio-001/CY-ScrExt-Hub/main/extend/更好的进制转换.js",
     "coverUrl": "https://gh-proxy.org/https://raw.githubusercontent.com/cy-studio-001/CY-ScrExt-Hub/main/cover/更好的进制转换.png",
     "description": "这个扩展解决了自带扩展的精度丢失问题",
-    "category": [
-      "运算"
-    ],
-    "author": "张某人",
     "updateDate": "2026-02-02",
     "isRepost": false,
-    "originalAuthor": ""
+    "originalAuthor": "",
+    "categories": []
   }
 ]
