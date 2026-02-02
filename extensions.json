@@ -149,18 +149,14 @@
   },
   {
     "name": "灵动弹窗",
+    "author": "@张某人",
     "downloadUrl": "https://github.com/cy-studio-001/CY-ScrExt-Hub/raw/refs/heads/main/extend/%E7%81%B5%E5%8A%A8%E5%BC%B9%E7%AA%97.js",
     "coverUrl": "https://img.cdn1.vip/i/68fddc96851e6_1761467542.webp",
     "description": "为Scratch项目添加漂亮、灵动的弹窗、通知和对话框，基于SweetAlert库。--官方网站：jeandongjun.notion.site",
-    "category": [
-      "实用",
-      "设计",
-      "游戏"
-    ],
-    "author": "--张某人",
     "updateDate": "2025-10-26",
     "isRepost": false,
-    "originalAuthor": ""
+    "originalAuthor": "",
+    "categories": []
   },
   {
     "name": "密码锁扩展",
@@ -220,16 +216,14 @@
   },
   {
     "name": "临时云变量",
+    "author": "10000why",
     "downloadUrl": "https://github.com/cy-studio-001/CY-ScrExt-Hub/blob/main/extend/%E4%B8%B4%E6%97%B6%E4%BA%91%E5%8F%98%E9%87%8F.js",
     "coverUrl": "https://img.cdn1.vip/i/694e69187b7bf_1766746392.webp",
     "description": "这一个扩展可以用积木创建一个临时的云变量(与原版扩展\"临时变量\"差不多)",
-    "category": [
-      "网络"
-    ],
-    "author": "10000why https://www.bilibili.com/video/BV16Exvz7E6N?vd_source=c18abc2166c0ac57a7776683e35de424",
     "updateDate": "2025-12-26",
     "isRepost": false,
-    "originalAuthor": ""
+    "originalAuthor": "",
+    "categories": []
   },
   {
     "id": "1770029030194",
