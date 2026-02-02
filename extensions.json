@@ -236,5 +236,19 @@
     "isRepost": false,
     "originalAuthor": "",
     "categories": []
+  },
+  {
+    "id": "1770037694579",
+    "name": "CYの音游",
+    "author": "@cy_studio",
+    "downloadUrl": "",
+    "coverUrl": "https://edgeoneimg.cdn.sn/i/697c4ab82fa43_1769753272.png",
+    "description": "让你的音游制作更便捷！！",
+    "category": [
+      "游戏"
+    ],
+    "updateDate": "2026-02-02",
+    "isRepost": false,
+    "originalAuthor": ""
   }
 ]
